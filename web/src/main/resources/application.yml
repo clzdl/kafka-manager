@@ -1,7 +1,7 @@
 server:
   port: 8080
   tomcat:
-    accept-count: 120
+    accept-count: 100
     max-connections: 1000
     max-threads: 20
     min-spare-threads: 20
